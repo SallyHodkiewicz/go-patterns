@@ -1,5 +1,5 @@
 
-## Паттерны проектирования с примерами на Golang
+## Паттерны*проектирования*с примерами на Golang
 
 Это коллекция из 22 популярных паттернов проектирования с примерами кода на языке Go и кратким описанием паттерна.
 
@@ -19,7 +19,7 @@ $ go get github.com/alexandergrom/go-patterns
 
 ### [Порождающие (Creational)](Creational)
 
-* [Абстрактная фабрика (Abstract Factory)](Creational/AbstractFactory)
+# [Абстрактная фабрика (Abstract Factory)](Creational/AbstractFactory)
 * [Строитель (Builder)](Creational/Builder)
 * [Фабричный метод (Factory Method)](Creational/FactoryMethod)
 * [Прототип (Prototype)](Creational/Prototype)
@@ -49,3 +49,4 @@ $ go get github.com/alexandergrom/go-patterns
 * [Посетитель (Visitor)](Behavioral/Visitor)
 
 ## -~- THE END -~-
+ 
